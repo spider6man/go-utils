@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ZeroSpider6/go-utils/file"
+	"github.com/spider6man/go-utils/file"
 )
 
 func Snmp(title string) (ret map[string]int64, err error) {

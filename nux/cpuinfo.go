@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/ZeroSpider6/go-utils/file"
+	"github.com/spider6man/go-utils/file"
 )
 
 func NumCpu() int {

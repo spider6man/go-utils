@@ -5,8 +5,8 @@ import (
 	"math"
 	"time"
 
-	"github.com/ZeroSpider6/go-utils/clock"
-	"github.com/ZeroSpider6/go-utils/number"
+	"github.com/spider6man/go-utils/clock"
+	"github.com/spider6man/go-utils/number"
 )
 
 func DataEval(lhs, rhs interface{}, op string) interface{} {

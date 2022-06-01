@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ZeroSpider6/go-utils/file"
+	"github.com/spider6man/go-utils/file"
 )
 
 type DiskStats struct {

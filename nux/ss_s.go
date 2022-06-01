@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ZeroSpider6/go-utils/file"
-	"github.com/ZeroSpider6/go-utils/sys"
+	"github.com/spider6man/go-utils/file"
+	"github.com/spider6man/go-utils/sys"
 )
 
 func SocketStatSummary() (m map[string]uint64, err error) {

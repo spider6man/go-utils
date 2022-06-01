@@ -5,7 +5,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/ZeroSpider6/go-utils/slice"
+	"github.com/spider6man/go-utils/slice"
 )
 
 type DataEvent struct {

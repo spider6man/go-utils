@@ -3,7 +3,7 @@ package compare
 import (
 	"reflect"
 
-	"github.com/ZeroSpider6/go-utils/cast"
+	"github.com/spider6man/go-utils/cast"
 )
 
 func boolCompare(a bool, b bool, exp string) bool {

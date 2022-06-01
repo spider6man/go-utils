@@ -8,9 +8,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ZeroSpider6/go-utils/file"
-	"github.com/ZeroSpider6/go-utils/slice"
-	"github.com/ZeroSpider6/go-utils/sys"
+	"github.com/spider6man/go-utils/file"
+	"github.com/spider6man/go-utils/slice"
+	"github.com/spider6man/go-utils/sys"
 )
 
 // ListeningPorts 为了兼容老代码

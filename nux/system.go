@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ZeroSpider6/go-utils/file"
+	"github.com/spider6man/go-utils/file"
 )
 
 func SystemUptime() (days, hours, mins int64, err error) {

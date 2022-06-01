@@ -8,7 +8,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/ZeroSpider6/go-utils/file"
+	"github.com/spider6man/go-utils/file"
 )
 
 // return: [][$fs_spec, $fs_file, $fs_vfstype]

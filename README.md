@@ -4,9 +4,9 @@ go 语言常用功能收集的工具库
 
 ### 文档
 
-[![GitHub stars](https://img.shields.io/github/stars/ZeroSpider6/go-utils)](https://github.com/ZeroSpider6/go-utils/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ZeroSpider6/go-utils)](https://github.com/ZeroSpider6/go-utils/network)
-[![GitHub license](https://img.shields.io/github/license/ZeroSpider6/go-utils)](https://github.com/ZeroSpider6/go-utils/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/spider6man/go-utils)](https://github.com/spider6man/go-utils/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/spider6man/go-utils)](https://github.com/spider6man/go-utils/network)
+[![GitHub license](https://img.shields.io/github/license/spider6man/go-utils)](https://github.com/spider6man/go-utils/blob/master/LICENSE)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 

@@ -11,7 +11,7 @@ import (
 	mqtt "github.com/eclipse/paho.mqtt.golang"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/ZeroSpider6/go-utils/uuid"
+	"github.com/spider6man/go-utils/uuid"
 )
 
 // MqttClient is parameters for Mqtt client.
