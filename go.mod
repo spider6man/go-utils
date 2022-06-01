@@ -1,4 +1,4 @@
-module github.com/ZeroSpider6/go-utils
+module github.com/spider6man/go-utils
 
 go 1.16
 
